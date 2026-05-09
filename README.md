@@ -17,7 +17,7 @@ Four API keys (OPENAI_API_KEY, ANTHROPIC_API_KEY, DEEPSEEK_API_KEY, XAI_API_KEY)
 
 cp .env.example .env
 
-### 3. Generate responses (one terminal per model)
+### 3. Generate responses
 python generate_openai.py
 python generate_anthropic.py
 python generate_deepseek.py
