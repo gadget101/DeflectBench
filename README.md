@@ -1,5 +1,6 @@
 # DeflectBench
-Benchmark for evaluating rhetorical fallacy generation in LLMs
+Benchmark for evaluating rhetorical fallacy generation in LLMs.
+
 Generations and evals are located in the data folder (.jsonl files).
 
 ## Structure
