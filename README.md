@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 ### 2. Set API keys
 Four API keys (OPENAI_API_KEY, ANTHROPIC_API_KEY, DEEPSEEK_API_KEY, XAI_API_KEY)
+
 cp .env.example .env
 
 ### 3. Generate responses (one terminal per model)
